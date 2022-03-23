@@ -25,7 +25,9 @@ Your users should be able to:
 ## Screenshot
 
 Desktop result:
+---
 ![Desktop Version](./design/desktop-result.png)
 Mobile result:
+---
 ![Mobile Version](./design/mobile-result.png)
 
