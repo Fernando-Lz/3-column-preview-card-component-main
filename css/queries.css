@@ -1,52 +1,14 @@
-/* Below 1344px */
-@media (max-width: 84em) {
-  .container {
-    width: 60%;
-  }
-}
-
-/* Below 1200px */
-@media (max-width: 75em) {
-  body {
-    font-size: 1.2rem;
-  }
-
-  .container {
-    width: 65%;
-  }
-
-  .card {
-    padding: 3rem 3rem;
-  }
-
-  .car-icon {
-    width: 6rem;
-  }
-
-  .btn-learn-more:link,
-  .btn-learn-more:visited {
-    bottom: 3rem;
-  }
-}
-
-/* Below 944px (Tablets) */
+/* Below 944px (Tablets and phones) */
 @media (max-width: 59em) {
-}
-
-/* Below 704px (Smaller Tablets) */
-@media (max-width: 44em) {
-}
-
-/* Below 560px (Phones) */
-@media (max-width: 35em) {
   body {
     height: auto;
     padding: 5rem 0rem;
+    font-size: 1.5rem;
   }
 
   .container {
     height: auto;
-    width: 90%;
+    width: 300px;
     border-radius: 1rem;
     flex-direction: column;
     overflow: hidden;

@@ -27,8 +27,8 @@ body {
 }
 
 .container {
-  width: 65%;
-  height: 60%;
+  width: 900px;
+  height: 450px;
   margin: 0 auto;
   border-radius: 5px;
   overflow: hidden;
